@@ -8,13 +8,13 @@ Mobile Application Coding Assignment
 Clone the project
 
 ```bash
-  git clone <url>
+  git clone https://github.com/bnvkishore/mdt-assignment.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd <project folder>
+  cd mdt-assignment
 ```
 
 Install dependencies
